@@ -1,0 +1,34 @@
+{
+  "name": "mem-vault-fe",
+  "private": true,
+  "version": "0.0.0",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "@meilisearch/instant-meilisearch": "^0.12.0",
+    "@vant/icons": "^2.0.1",
+    "add": "^2.0.6",
+    "instantsearch.css": "^8.0.0",
+    "lodash": "^4.17.21",
+    "luid": "^1.0.3",
+    "meilisearch": "^0.32.3",
+    "moment": "^2.29.4",
+    "ulid": "^2.3.0",
+    "vant": "^4.2.0",
+    "vue": "^3.2.47",
+    "vue-instantsearch": "^4.8.10",
+    "vue-text-highlight": "^2.0.10",
+    "vue3-google-login": "^2.0.15",
+    "vuex": "^4.0.2",
+    "yarn": "^1.22.19"
+  },
+  "devDependencies": {
+    "@vitejs/plugin-vue": "^4.1.0",
+    "unplugin-vue-components": "^0.24.1",
+    "vite": "^4.3.0"
+  }
+}
